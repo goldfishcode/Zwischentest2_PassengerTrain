@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+#incldue <stdlib.h>
 
 enum type { passenger, sleeper, diner };
 
